@@ -1,0 +1,14 @@
+digraph G {
+//rankdir="LR";
+node [shape=box,style="rounded"]
+
+"DNI"->"Registro de Graduados";
+"Registro de Graduados"->"URL";
+"Registro de Graduados"->"screenshot (bkp)"->"hash.png";
+"URL"->"hash(URL)"->"hash.txt";
+"hash.txt"->"validador-online\n(pgus.segulupa.com)"->"hash"->"Registro de Graduados";
+"Credencial"->"QR";
+"Credencial"->"hash"->"últimos 8 caractéres\n de hash"->"ID"->"QR";
+"Credencial"->"Datos de"->"Registro de Graduados";
+"QR"->"validador-online\n(pgus.segulupa.com)";
+}
