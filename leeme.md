@@ -59,7 +59,7 @@ El script principal toma el dato de GET, recorre dicha carpeta y verifica si coi
 
 # Cambios
 * 2023/03/25 - Ideado (LD y SQ)
-* 2023/04/10 - Programado y documentado (LD)
+* 2023/10/04 - Programado y documentado (LD)
 
 # Licencia
 GPLv3
