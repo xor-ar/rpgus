@@ -62,6 +62,7 @@ Son los archivos .php
 # Cambios
 * 2023/03/25 - Ideado (LD y SQ)
 * 2023/10/04 - Programado y documentado (LD)
+* 2023/10/27 - Se cargan los archivos php (LD)
 
 # Licencia
 GPLv3
