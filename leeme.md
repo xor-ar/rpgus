@@ -49,6 +49,8 @@ Se tiene una carpeta con todos los archivos de imagen y de texto.
 
 El script principal toma el dato de GET, recorre dicha carpeta y verifica si coincide alguno con los nombres de los archivos (los últimos 8 caractéres), en caso afirmativo, así lo indica y da la URL.
 
+Son los archivos .php
+
 # Pendientes
 * Interoperabilidad (API)
 * Verificación con otros validadores
